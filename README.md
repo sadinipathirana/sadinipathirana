@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadinipathirana&label=Profile%20views&color=0e75b6&style=flat" alt="sadinipathirana" /> </p>
 
-- 🌱 I’m currently learning **Django**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **contactsadini@gmail.com**
